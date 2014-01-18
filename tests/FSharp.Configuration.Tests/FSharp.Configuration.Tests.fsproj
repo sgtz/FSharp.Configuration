@@ -73,6 +73,7 @@
     <Content Include="Settings2.yaml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <None Include="AppSettingsProvider.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Configuration">
